@@ -36,7 +36,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Charging Tuskodon | $0.06 |
 | Cherished Hatchling | $0.05 |
 | Cinder Barrens | $0.11 |
-| City's Blessing Token (006) | $0.08 |
 | Cleansing Ray | $0.03 |
 | Colossal Dreadmaw | $0.03 |
 | Crafty Cutpurse | $0.15 |
@@ -56,8 +55,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Divine Verdict | $0.04 |
 | Dusk Charger | $0.03 |
 | Dusk Legion Zealot | $0.12 |
-| Elemental Token (001) | $0.13 |
-| Elemental Token (002) | $0.08 |
 | Elenda, the Dusk Rose | $5.76 |
 | Emblem - Huatli | $0.06 |
 | Enter the Unknown | $0.21 |
@@ -74,7 +71,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Forerunner of the Empire | $0.10 |
 | Forerunner of the Heralds | $0.06 |
 | Forerunner of the Legion | $0.13 |
-| Forest | $0.16 |
 | Form of the Dinosaur | $0.11 |
 | Forsaken Sanctuary | $0.09 |
 | Foul Orchard | $0.06 |
@@ -85,7 +81,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Goblin Trailblazer | $0.03 |
 | Golden Demise | $0.07 |
 | Golden Guardian | $0.39 |
-| Golem Token (004) | $0.06 |
 | Grasping Scoundrel | $0.02 |
 | Gruesome Fate | $0.03 |
 | Hadana's Climb | $1.08 |
@@ -97,7 +92,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Impale | $0.03 |
 | Imperial Ceratops | $0.04 |
 | Induced Amnesia | $0.22 |
-| Island | $0.19 |
 | Jade Bearer | $0.05 |
 | Jadecraft Artisan | $0.03 |
 | Jadelight Ranger | $10.25 |
@@ -119,7 +113,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Mist-Cloaked Herald | $0.07 |
 | Moment of Craving | $0.04 |
 | Moment of Triumph | $0.02 |
-| Mountain | $0.17 |
 | Mutiny | $0.04 |
 | Naturalize | $0.03 |
 | Needletooth Raptor | $0.09 |
@@ -135,7 +128,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Path of Mettle | $1.20 |
 | Pirate's Pillage | $0.03 |
 | Pitiless Plunderer | $0.07 |
-| Plains | $0.15 |
 | Plummet | $0.03 |
 | Polyraptor | $3.54 |
 | Pride of Conquerors | $0.03 |
@@ -158,7 +150,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Sadistic Skymarcher | $0.06 |
 | Sailor of Means | $0.06 |
 | Sanguine Glorifier | $0.02 |
-| Saproling Token (003) | $0.03 |
 | Sea Legs | $0.02 |
 | Seafloor Oracle | $0.43 |
 | Secrets of the Golden City | $0.03 |
@@ -190,7 +181,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Sun-Crested Pterodon | $0.02 |
 | Swab Goblin | $0.13 |
 | Swaggering Corsair | $0.03 |
-| Swamp | $0.24 |
 | Swift Warden | $0.07 |
 | Sworn Guardian | $0.03 |
 | Temple Altisaur | $0.24 |
@@ -282,9 +272,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Demystify | $0.03 |
 | Depths of Desire | $0.04 |
 | Desperate Castaways | $0.02 |
-| Dinosaur (005) Token | $0.05 |
-| Dinosaur // Treasure (008) Double-sided Token | $0.99 |
-| Dinosaur // Treasure (009) Double-sided Token | $1.00 |
 | Dinosaur Stampede | $0.08 |
 | Dire Fleet Captain | $0.07 |
 | Dire Fleet Hoarder | $0.03 |
@@ -316,10 +303,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Fire Shrine Keeper | $0.02 |
 | Firecannon Blast | $0.02 |
 | Fleet Swallower | $0.26 |
-| Forest | $0.21 |
-| Forest (277) | $0.04 |
-| Forest (278) | $0.06 |
-| Forest (279) | $0.04 |
 | Frenzied Raptor | $0.02 |
 | Gilded Sentinel | $0.01 |
 | Gishath, Sun's Avatar | $5.28 |
@@ -341,14 +324,9 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Huatli, Warrior Poet | $4.02 |
 | Huatli's Snubhorn | $0.23 |
 | Huatli's Spurring | $0.11 |
-| Illusion (002) Token | $0.03 |
 | Imperial Aerosaur | $0.04 |
 | Imperial Lancer | $0.03 |
 | Inspiring Cleric | $0.04 |
-| Island | $0.21 |
-| Island (265) | $0.05 |
-| Island (266) | $0.05 |
-| Island (267) | $0.04 |
 | Ixalan's Binding | $0.42 |
 | Ixalli's Diviner | $0.03 |
 | Ixalli's Keeper | $0.02 |
@@ -375,12 +353,7 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | March of the Drowned | $0.04 |
 | Mark of the Vampire | $0.02 |
 | Mavren Fein, Dusk Apostle | $2.11 |
-| Merfolk (003) Token | $0.08 |
 | Merfolk Branchwalker | $1.05 |
-| Mountain | $0.21 |
-| Mountain (273) | $0.05 |
-| Mountain (274) | $0.04 |
-| Mountain (275) | $0.04 |
 | Navigator's Ruin | $0.04 |
 | Nest Robber | $0.02 |
 | New Horizons | $0.03 |
@@ -393,14 +366,8 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Perilous Voyage | $0.06 |
 | Pillar of Origins | $0.08 |
 | Pious Interdiction | $0.01 |
-| Pirate (004) Token | $0.06 |
 | Pirate's Cutlass | $0.03 |
 | Pirate's Prize | $0.03 |
-| Plains | $0.20 |
-| Plains (261) | $0.04 |
-| Plains (262) | $0.04 |
-| Plains (263) | $0.04 |
-| Plant (006) Token | $0.03 |
 | Pounce | $0.02 |
 | Priest of the Wakening Sun | $0.25 |
 | Primal Amulet | $1.78 |
@@ -480,10 +447,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Sunpetal Grove | $2.35 |
 | Sunrise Seeker | $0.01 |
 | Sure Strike | $0.01 |
-| Swamp | $0.21 |
-| Swamp (269) | $0.05 |
-| Swamp (270) | $0.04 |
-| Swamp (271) | $0.06 |
 | Swashbuckling | $0.02 |
 | Sword-Point Diplomacy | $0.27 |
 | Tempest Caller | $0.09 |
@@ -496,17 +459,11 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Tishana, Voice of Thunder | $1.70 |
 | Tishana's Wayfinder | $0.02 |
 | Tocatli Honor Guard | $0.24 |
-| Treasure (007) Token | $0.02 |
-| Treasure (008) Token | $0.02 |
-| Treasure (009) Token | $0.02 |
-| Treasure (010) Token | $0.02 |
 | Treasure Map | $2.72 |
 | Trove of Temptation | $0.05 |
 | Unclaimed Territory | $3.36 |
 | Unfriendly Fire | $0.01 |
 | Unknown Shores | $0.03 |
-| Vampire (001) Token | $0.05 |
-| Vampire // Treasure Double-sided Token | — |
 | Vampire's Zeal | $0.04 |
 | Vance's Blasting Cannons | $0.37 |
 | Vanquish the Weak | $0.02 |
@@ -537,9 +494,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Accursed Horde | $0.05 |
 | Act of Heroism | $0.03 |
 | Adorned Pouncer | $1.82 |
-| Adorned Pouncer // Horse Double-sided Token | $0.28 |
-| Adorned Pouncer // Warrior Double-sided Token | $0.18 |
-| Adorned Pouncer Token | $0.18 |
 | Aerial Guide | $0.02 |
 | Ambuscade | $0.02 |
 | Ammit Eternal | $0.78 |
@@ -560,9 +514,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Burning-Fist Minotaur | $0.04 |
 | Carrion Screecher | $0.02 |
 | Champion of Wits | $2.38 |
-| Champion of Wits // Insect Double-sided Token | $0.47 |
-| Champion of Wits // Warrior Double-sided Token | $0.17 |
-| Champion of Wits Token | $0.08 |
 | Chandra's Defeat | $0.35 |
 | Chaos Maw | $0.10 |
 | Cinder Barrens | $0.09 |
@@ -589,26 +540,17 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Djeru's Renunciation | $0.02 |
 | Doomfall | $0.20 |
 | Dreamstealer | $0.50 |
-| Dreamstealer // Insect Double-sided Token | $0.37 |
-| Dreamstealer // Warrior Double-sided Token | $0.16 |
-| Dreamstealer Token | $0.06 |
 | Driven // Despair | $0.25 |
 | Dune Diviner | $0.01 |
 | Dunes of the Dead | $0.07 |
 | Dutiful Servants | $0.02 |
 | Earthshaker Khenra | $1.03 |
-| Earthshaker Khenra // Cat Double-sided Token | $0.19 |
-| Earthshaker Khenra // Zombie Double-sided Token | $0.34 |
-| Earthshaker Khenra Token | $0.15 |
 | Endless Sands | $0.13 |
 | Eternal of Harsh Truths | $0.05 |
 | Farm // Market | $0.08 |
 | Feral Prowler | $0.03 |
 | Fervent Paincaster | $0.04 |
 | Firebrand Archer | $0.11 |
-| Forest (189) - Full Art | $0.22 |
-| Forest (198) | $0.11 |
-| Forest (199) | $0.05 |
 | Fraying Sanity | $1.88 |
 | Frilled Sandwalla | $0.03 |
 | Frontline Devastator | $0.02 |
@@ -626,9 +568,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Hazoret's Undying Fury | $0.17 |
 | Hollow One | $2.31 |
 | Hope Tender | $0.04 |
-| Horse // Warrior Double-sided Token | $0.21 |
-| Horse // Zombie Double-sided Token | $0.18 |
-| Horse Token | $0.36 |
 | Hostile Desert | $0.21 |
 | Hour of Devastation | $0.80 |
 | Hour of Eternity | $0.12 |
@@ -639,13 +578,7 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Imaginary Threats | $0.02 |
 | Imminent Doom | $0.15 |
 | Inferno Jet | $0.03 |
-| Insect // Warrior Double-sided Token | $0.39 |
-| Insect // Zombie Double-sided Token | $0.38 |
-| Insect Token | $0.49 |
 | Ipnu Rivulet | $0.31 |
-| Island (186) - Full Art | $0.26 |
-| Island (192) | $0.14 |
-| Island (193) | $0.05 |
 | Jace's Defeat | $0.15 |
 | Kefnet's Last Word | $0.13 |
 | Khenra Eternal | $0.03 |
@@ -664,9 +597,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Merciless Eternal | $0.03 |
 | Mirage Mirror | $1.79 |
 | Moaning Wall | $0.02 |
-| Mountain (188) - Full Art | $0.27 |
-| Mountain (196) | $0.11 |
-| Mountain (197) | $0.05 |
 | Mummy Paramount | $0.01 |
 | Neheb, the Eternal | $2.41 |
 | Nicol Bolas, God-Pharaoh | $5.83 |
@@ -683,15 +613,8 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Open Fire | $0.03 |
 | Overcome | $0.02 |
 | Overwhelming Splendor | $1.58 |
-| Plains (185) - Full Art | $0.20 |
-| Plains (190) | $0.08 |
-| Plains (191) | $0.06 |
 | Pride Sovereign | $0.79 |
 | Proven Combatant | $0.01 |
-| Proven Combatant // Cat Double-sided Token | $0.15 |
-| Proven Combatant // Zombie Double-sided Token | $0.15 |
-| Proven Combatant Token | $0.03 |
-| Punch Card Token | $0.04 |
 | Puncturing Blow | $0.02 |
 | Quarry Beetle | $0.02 |
 | Rampaging Hippo | $0.01 |
@@ -702,9 +625,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Reason // Believe | $0.11 |
 | Refuse // Cooperate | $0.24 |
 | Resilient Khenra | $0.25 |
-| Resilient Khenra // Cat Double-sided Token | $0.17 |
-| Resilient Khenra // Zombie Double-sided Token | $0.18 |
-| Resilient Khenra Token | $0.05 |
 | Resolute Survivors | $0.04 |
 | Rhonas's Last Stand | $0.19 |
 | Rhonas's Stalwart | $0.01 |
@@ -722,33 +642,18 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Sidewinder Naga | $0.01 |
 | Sifter Wurm | $0.05 |
 | Sinuous Striker | $0.02 |
-| Sinuous Striker // Cat Double-sided Token | $0.15 |
-| Sinuous Striker // Zombie Double-sided Token | $0.15 |
-| Sinuous Striker Token | $0.04 |
-| Snake // Warrior Double-sided Token | $0.14 |
-| Snake // Zombie Double-sided Token | $0.16 |
-| Snake Token | $0.08 |
 | Solemnity | $1.43 |
 | Solitary Camel | $0.02 |
 | Spellweaver Eternal | $0.02 |
 | Steadfast Sentinel | $0.01 |
-| Steadfast Sentinel // Cat Double-sided Token | $0.16 |
-| Steadfast Sentinel // Zombie Double-sided Token | $0.16 |
-| Steadfast Sentinel Token | $0.04 |
 | Steward of Solidarity | $0.03 |
 | Strategic Planning | $0.08 |
 | Striped Riverwinder | $0.07 |
 | Struggle // Survive | $0.06 |
 | Sunscourge Champion | $0.15 |
-| Sunscourge Champion // Cat Double-sided Token | $0.23 |
-| Sunscourge Champion // Zombie Double-sided Token | $0.18 |
-| Sunscourge Champion Token | $0.04 |
 | Sunset Pyramid | $0.05 |
 | Supreme Will | $0.61 |
 | Survivors' Encampment | $0.05 |
-| Swamp (187) - Full Art | $0.33 |
-| Swamp (194) | $0.08 |
-| Swamp (195) | $0.06 |
 | Swarm Intelligence | $0.30 |
 | Tenacious Hunter | $0.03 |
 | The Locust God | $5.37 |
@@ -786,26 +691,17 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Ahn-Crop Crasher | $0.25 |
 | Ancient Crab | $0.02 |
 | Angel of Sanctions | $1.80 |
-| Angel of Sanctions // Drake Token | $0.18 |
-| Angel of Sanctions Token | $0.66 |
 | Angler Drake | $0.02 |
 | Anointed Procession | $6.47 |
 | Anointer Priest | $0.09 |
-| Anointer Priest // Drake Token | $0.08 |
-| Anointer Priest Token | $0.06 |
 | Approach of the Second Sun | $1.14 |
 | Archfiend of Ifnir | $0.26 |
 | As Foretold | $8.72 |
 | Aven Initiate | $0.02 |
-| Aven Initiate // Snake Token | $0.04 |
-| Aven Initiate Token | $0.04 |
 | Aven Mindcensor | $0.50 |
 | Aven Wind Guide | $0.05 |
-| Aven Wind Guide // Hippo Token | $0.11 |
-| Aven Wind Guide Token | $0.04 |
 | Baleful Ammit | $0.05 |
 | Battlefield Scavenger | $0.04 |
-| Beast Token | $0.08 |
 | Benefaction of Rhonas | $0.02 |
 | Binding Mummy | $0.04 |
 | Bitterblade Warrior | $0.02 |
@@ -828,7 +724,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Cartouche of Zeal | $0.07 |
 | Cascading Cataracts | $0.46 |
 | Cast Out | $1.02 |
-| Cat Token | $0.08 |
 | Censor | $0.97 |
 | Champion of Rhonas | $0.40 |
 | Channeler Initiate | $0.36 |
@@ -860,7 +755,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Djeru's Resolve | $0.02 |
 | Doomed Dissenter | $0.04 |
 | Drake Haven | $0.33 |
-| Drake Token | $0.40 |
 | Dread Wanderer | $1.16 |
 | Dune Beetle | $0.02 |
 | Dusk // Dawn | $1.10 |
@@ -869,7 +763,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Embalmer's Tools | $0.04 |
 | Emberhorn Minotaur | $0.02 |
 | Emblem - Gideon of the Trials | $0.70 |
-| Emblem - Gideon of the Trials // Zombie Token | $0.18 |
 | Enigma Drake | $0.23 |
 | Essence Scatter | $0.11 |
 | Evolving Wilds | $0.08 |
@@ -883,10 +776,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Flameblade Adept | $0.19 |
 | Fling | $0.10 |
 | Floodwaters | $0.06 |
-| Forest (254) - Full Art | $0.23 |
-| Forest (267) | $0.15 |
-| Forest (268) | $0.06 |
-| Forest (269) | $0.06 |
 | Forsake the Worldly | $0.08 |
 | Forsaken Sanctuary | $0.23 |
 | Foul Orchard | $0.09 |
@@ -902,8 +791,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Glory-Bound Initiate | $0.30 |
 | Glorybringer | $3.75 |
 | Glyph Keeper | $0.14 |
-| Glyph Keeper // Warrior Token | $0.11 |
-| Glyph Keeper Token | $0.17 |
 | Graceful Cat | $0.06 |
 | Grasping Dunes | $0.07 |
 | Gravedigger | $0.06 |
@@ -919,18 +806,13 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Hazoret's Favor | $0.10 |
 | Hazoret's Monument | $0.10 |
 | Heart-Piercer Manticore | $0.10 |
-| Heart-Piercer Manticore // Warrior Token | $0.13 |
-| Heart-Piercer Manticore Token | $0.11 |
 | Heaven // Earth | $0.10 |
 | Hekma Sentinels | $0.02 |
 | Hieroglyphic Illumination | $0.12 |
 | Highland Lake | $0.22 |
-| Hippo Token | $0.16 |
 | Honed Khopesh | $0.03 |
 | Honored Crop-Captain | $0.05 |
 | Honored Hydra | $0.12 |
-| Honored Hydra // Warrior Token | $0.10 |
-| Honored Hydra Token | $0.15 |
 | Hooded Brawler | $0.01 |
 | Horror of the Broken Lands | $0.06 |
 | Hyena Pack | $0.01 |
@@ -938,19 +820,12 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Impeccable Timing | $0.03 |
 | In Oketra's Name | $0.04 |
 | Initiate's Companion | $0.02 |
-| Insect Token | $0.11 |
 | Insult // Injury | $0.37 |
 | Irrigated Farmland | $3.87 |
-| Island (251) - Full Art | $0.24 |
-| Island (258) | $0.17 |
-| Island (259) | $0.07 |
-| Island (260) | $0.06 |
 | Kefnet the Mindful | $1.12 |
 | Kefnet's Monument | $0.05 |
 | Khenra Charioteer | $0.05 |
 | Labyrinth Guardian | $0.02 |
-| Labyrinth Guardian // Insect Token | $0.03 |
-| Labyrinth Guardian Token | $0.03 |
 | Lay Bare the Heart | $0.16 |
 | Lay Claim | $0.05 |
 | Liliana, Death Wielder | $4.50 |
@@ -968,10 +843,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Miasmic Mummy | $0.02 |
 | Mighty Leap | $0.02 |
 | Minotaur Sureshot | $0.03 |
-| Mountain (253) - Full Art | $0.25 |
-| Mountain (264) | $0.13 |
-| Mountain (265) | $0.05 |
-| Mountain (266) | $0.05 |
 | Mouth // Feed | $0.17 |
 | Naga Oracle | $0.03 |
 | Naga Vitalist | $0.05 |
@@ -985,8 +856,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Oashra Cultivator | $0.02 |
 | Oketra the True | $2.58 |
 | Oketra's Attendant | $0.04 |
-| Oketra's Attendant // Beast Token | $0.07 |
-| Oketra's Attendant Token | $0.04 |
 | Oketra's Monument | $0.53 |
 | Onward // Victory | $0.05 |
 | Open into Wonder | $0.05 |
@@ -997,16 +866,11 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Pathmaker Initiate | $0.03 |
 | Pitiless Vizier | $0.02 |
 | Plague Belcher | $0.50 |
-| Plains (250) - Full Art | $0.19 |
-| Plains (255) | $0.09 |
-| Plains (256) | $0.05 |
-| Plains (257) | $0.04 |
 | Pouncing Cheetah | $0.02 |
 | Prepare // Fight | $0.11 |
 | Protection of the Hekma | $0.02 |
 | Prowling Serpopard | $1.44 |
 | Pull from Tomorrow | $0.59 |
-| Punch Card Token | $0.02 |
 | Pursue Glory | $0.02 |
 | Pyramid of the Pantheon | $0.21 |
 | Quarry Hauler | $0.02 |
@@ -1020,8 +884,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | River Serpent | $0.03 |
 | Ruthless Sniper | $0.07 |
 | Sacred Cat | $0.25 |
-| Sacred Cat // Insect Token | $0.10 |
-| Sacred Cat Token | $0.15 |
 | Sacred Excavation | $0.04 |
 | Samut, Voice of Dissent | $0.86 |
 | Sandwurm Convergence | $0.33 |
@@ -1039,7 +901,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Shimmerscale Drake | $0.01 |
 | Sixth Sense | $0.05 |
 | Slither Blade | $0.13 |
-| Snake Token | $0.39 |
 | Soul-Scar Mage | $2.35 |
 | Soulstinger | $0.02 |
 | Sparring Mummy | $0.02 |
@@ -1054,20 +915,12 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Sunscorched Desert | $0.14 |
 | Supernatural Stamina | $0.13 |
 | Supply Caravan | $0.02 |
-| Swamp (252) - Full Art | $0.26 |
-| Swamp (261) | $0.18 |
-| Swamp (262) | $0.07 |
-| Swamp (263) | $0.06 |
 | Sweltering Suns | $1.40 |
 | Synchronized Strike | $0.02 |
 | Tah-Crop Elite | $0.02 |
 | Tah-Crop Skirmisher | $0.01 |
-| Tah-Crop Skirmisher // Cat Token | $0.06 |
-| Tah-Crop Skirmisher Token | $0.02 |
 | Tattered Mummy | $0.31 |
 | Temmet, Vizier of Naktamun | $0.14 |
-| Temmet, Vizier of Naktamun // Zombie Token | $0.10 |
-| Temmet, Vizier of Naktamun Token | $0.13 |
 | Those Who Serve | $0.02 |
 | Thresher Lizard | $0.02 |
 | Throne of the God-Pharaoh | $0.46 |
@@ -1082,25 +935,17 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Trial of Strength | $0.04 |
 | Trial of Zeal | $0.06 |
 | Trueheart Duelist | $0.05 |
-| Trueheart Duelist // Snake Token | $0.27 |
-| Trueheart Duelist Token | $0.08 |
 | Trueheart Twins | $0.03 |
 | Unburden | $0.04 |
 | Unwavering Initiate | $0.01 |
-| Unwavering Initiate // Wurm Token | $0.08 |
-| Unwavering Initiate Token | $0.02 |
 | Violent Impact | $0.02 |
 | Vizier of Deferment | $0.05 |
 | Vizier of Many Faces | $0.51 |
-| Vizier of Many Faces // Zombie Token | $0.09 |
-| Vizier of Many Faces Token | $0.25 |
 | Vizier of Remedies | $0.19 |
 | Vizier of the Menagerie | $1.85 |
 | Vizier of Tumbling Sands | $0.10 |
 | Wander in Death | $0.06 |
 | Warfire Javelineer | $0.03 |
-| Warrior // Labyrinth Guardian Token | $0.08 |
-| Warrior Token | $0.08 |
 | Wasteland Scorpion | $0.05 |
 | Watchers of the Dead | $0.06 |
 | Watchful Naga | $0.03 |
@@ -1109,10 +954,7 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Winds of Rebuke | $0.05 |
 | Winged Shepherd | $0.02 |
 | Woodland Stream | $0.07 |
-| Wurm Token | $0.23 |
 | Zenith Seeker | $0.03 |
-| Zombie // Trueheart Duelist Token | $0.19 |
-| Zombie Token | $0.08 |
 
 ### Aether Revolt
 
@@ -1174,7 +1016,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Emblem - Tezzeret the Schemer | $0.03 |
 | Embraal Gear-Smasher | $0.02 |
 | Enraged Giant | $0.02 |
-| Etherium Cell Token | $0.05 |
 | Exquisite Archangel | $0.87 |
 | Fatal Push | $7.39 |
 | Fen Hauler | $0.01 |
@@ -1192,7 +1033,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Greenbelt Rampager | $0.41 |
 | Greenwheel Liberator | $0.11 |
 | Gremlin Infestation | $0.01 |
-| Gremlin Token | $0.03 |
 | Heart of Kiran | $5.61 |
 | Herald of Anguish | $1.29 |
 | Heroic Intervention | $4.55 |
@@ -1254,7 +1094,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Prizefighter Construct | $0.01 |
 | Quicksmith Rebel | $0.10 |
 | Quicksmith Spy | $0.08 |
-| Ragavan Token | $0.06 |
 | Ravenous Intruder | $0.04 |
 | Reckless Racer | $0.02 |
 | Release the Gremlins | $0.14 |
@@ -1343,7 +1182,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Aviary Mechanic | $0.03 |
 | Ballista Charger | $0.03 |
 | Bastion Mastodon | $0.02 |
-| Beast Token (001) | $0.03 |
 | Blooming Marsh | $4.88 |
 | Blossoming Defense | $1.26 |
 | Bomat Bazaar Barge | $0.02 |
@@ -1367,8 +1205,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Commencement of Festivities | $0.03 |
 | Concealed Courtyard | $6.17 |
 | Confiscation Coup | $0.15 |
-| Construct Token (002) | $0.03 |
-| Construct Token (003) | $0.05 |
 | Consulate Skygate | $0.05 |
 | Consulate Surveillance | $0.03 |
 | Consul's Shieldguard | $0.02 |
@@ -1405,7 +1241,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Emblem - Nissa, Vital Force | $0.04 |
 | Embraal Bruiser | $0.01 |
 | Empyreal Voyager | $0.05 |
-| Energy Reserve Token | $0.03 |
 | Engineered Might | $0.02 |
 | Era of Innovation | $0.05 |
 | Essence Extraction | $0.11 |
@@ -1419,9 +1254,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Fireforger's Puzzleknot | $0.01 |
 | Flame Lash | $0.13 |
 | Fleetwheel Cruiser | $0.10 |
-| Forest (262) | $0.09 |
-| Forest (263) | $0.04 |
-| Forest (264) | $0.05 |
 | Fortuitous Find | $0.03 |
 | Foundry Inspector | $0.21 |
 | Foundry Screecher | $0.02 |
@@ -1457,9 +1289,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Inventors' Fair | $0.94 |
 | Inventor's Goggles | $0.02 |
 | Iron League Steed | $0.01 |
-| Island (253) | $0.12 |
-| Island (254) | $0.05 |
-| Island (255) | $0.05 |
 | Janjeet Sentry | $0.04 |
 | Kambal, Consul of Allocation | $0.39 |
 | Key to the City | $0.26 |
@@ -1486,9 +1315,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Mind Rot | $0.03 |
 | Minister of Inquiries | $0.13 |
 | Morbid Curiosity | $0.05 |
-| Mountain (259) | $0.09 |
-| Mountain (260) | $0.05 |
-| Mountain (261) | $0.04 |
 | Multiform Wonder | $0.08 |
 | Narnam Cobra | $0.01 |
 | Nature's Way | $0.06 |
@@ -1508,9 +1334,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Peema Outrider | $0.02 |
 | Perpetual Timepiece | $0.08 |
 | Pia Nalaar | $0.22 |
-| Plains (250) | $0.08 |
-| Plains (251) | $0.04 |
-| Plains (252) | $0.05 |
 | Prakhata Club Security | $0.01 |
 | Prakhata Pillar-Bug | $0.01 |
 | Pressure Point | $0.01 |
@@ -1539,9 +1362,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Sequestered Stash | $0.03 |
 | Servant of the Conduit | $0.34 |
 | Servo Exhibition | $0.09 |
-| Servo Token (004) | $0.04 |
-| Servo Token (005) | $0.03 |
-| Servo Token (006) | $0.03 |
 | Shrewd Negotiation | $0.02 |
 | Sky Skiff | $0.03 |
 | Skyship Stalker | $0.13 |
@@ -1557,9 +1377,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Start Your Engines | $0.04 |
 | Stone Quarry | $0.07 |
 | Subtle Strike | $0.02 |
-| Swamp (256) | $0.09 |
-| Swamp (257) | $0.05 |
-| Swamp (258) | $0.07 |
 | Syndicate Trafficker | $0.12 |
 | Take Down | $0.03 |
 | Tasseled Dromedary | $0.02 |
@@ -1567,9 +1384,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Territorial Gorger | $0.08 |
 | Terror of the Fairgrounds | $0.01 |
 | Tezzeret's Ambition | $0.01 |
-| Thopter Token (007) | $0.04 |
-| Thopter Token (008) | $0.03 |
-| Thopter Token (009) | $0.03 |
 | Thriving Grubs | $0.02 |
 | Thriving Ibex | $0.01 |
 | Thriving Rats | $0.03 |
