@@ -56,7 +56,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Dusk Charger | $0.03 |
 | Dusk Legion Zealot | $0.12 |
 | Elenda, the Dusk Rose | $5.76 |
-| Emblem - Huatli | $0.06 |
 | Enter the Unknown | $0.21 |
 | Etali, Primal Storm | $2.09 |
 | Everdawn Champion | $0.04 |
@@ -762,7 +761,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Electrify | $0.02 |
 | Embalmer's Tools | $0.04 |
 | Emberhorn Minotaur | $0.02 |
-| Emblem - Gideon of the Trials | $0.70 |
 | Enigma Drake | $0.23 |
 | Essence Scatter | $0.11 |
 | Evolving Wilds | $0.08 |
@@ -1013,7 +1011,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Dispersal Technician | $0.02 |
 | Druid of the Cowl | $0.03 |
 | Efficient Construction | $0.04 |
-| Emblem - Tezzeret the Schemer | $0.03 |
 | Embraal Gear-Smasher | $0.02 |
 | Enraged Giant | $0.02 |
 | Exquisite Archangel | $0.87 |
@@ -1236,9 +1233,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Electrostatic Pummeler | $0.24 |
 | Elegant Edgecrafters | $0.03 |
 | Eliminate the Competition | $0.10 |
-| Emblem - Chandra, Torch of Defiance | $0.03 |
-| Emblem - Dovin Baan | $0.06 |
-| Emblem - Nissa, Vital Force | $0.04 |
 | Embraal Bruiser | $0.01 |
 | Empyreal Voyager | $0.05 |
 | Engineered Might | $0.02 |
