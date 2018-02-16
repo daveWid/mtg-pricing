@@ -413,7 +413,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Raging Swordtooth | $0.08 |
 | Raiders' Wake | $0.06 |
 | Rallying Roar | $0.02 |
-| Rampaging Ferocidon | $0.92 |
 | Ranging Raptors | $0.28 |
 | Raptor Companion | $0.02 |
 | Raptor Hatchling | $0.13 |
@@ -698,7 +697,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Rampaging Hippo | $0.01 |
 | Ramunap Excavator | $1.70 |
 | Ramunap Hydra | $0.09 |
-| Ramunap Ruins | $0.20 |
 | Razaketh, the Foulblooded | $3.40 |
 | Razaketh's Rite | $0.09 |
 | Reason // Believe | $0.11 |
@@ -1179,7 +1177,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Etherium Cell Token | $0.05 |
 | Exquisite Archangel | $0.87 |
 | Fatal Push | $7.39 |
-| Felidar Guardian | $0.14 |
 | Fen Hauler | $0.01 |
 | Filigree Crawler | $0.02 |
 | Foundry Assembler | $0.02 |
@@ -1272,7 +1269,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Ridgescale Tusker | $0.07 |
 | Rishkar, Peema Renegade | $1.01 |
 | Rishkar's Expertise | $0.66 |
-| Rogue Refiner | $0.26 |
 | Salvage Scuttler | $0.01 |
 | Scrap Trawler | $0.23 |
 | Scrapper Champion | $0.03 |
@@ -1335,7 +1331,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Aethersquall Ancient | $0.09 |
 | Aetherstorm Roc | $0.08 |
 | Aethertorch Renegade | $0.04 |
-| Aetherworks Marvel | $0.80 |
 | Ambitious Aetherborn | $0.02 |
 | Angel of Invention | $5.97 |
 | Animation Module | $0.32 |
@@ -1344,7 +1339,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Arborback Stomper | $0.06 |
 | Architect of the Untamed | $0.10 |
 | Armorcraft Judge | $0.05 |
-| Attune with Aether | $0.05 |
 | Authority of the Consuls | $2.09 |
 | Aviary Mechanic | $0.03 |
 | Ballista Charger | $0.03 |
@@ -1554,7 +1548,6 @@ A repo setup to facilitate a MTG Standard Constructed format where your deck has
 | Skysovereign, Consul Flagship | $0.81 |
 | Skyswirl Harrier | $0.01 |
 | Skywhaler's Shot | $0.06 |
-| Smuggler's Copter | $1.51 |
 | Snare Thopter | $0.03 |
 | Spark of Creativity | $0.05 |
 | Speedway Fanatic | $0.04 |
